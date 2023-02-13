@@ -111,7 +111,38 @@ body {
 
 .botoes-servicos-contatos a:hover {
     background-color: white;
-    color: black;
+    color: black ;
+}
+
+/* -------------------------------------------------- */
+.container-servicos {
+    background-color: #05192A;
+    font-size: 1.1em;
+    padding: 60px;
+    overflow: auto;
+}
+
+.container-servicos h1 {
+    font-size: 3em;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.container-servicos h3 {
+    color: #2097FF;
+    padding: 20px 0;
+}
+
+.container-servicos article {
+    width: 40%;
+    margin: auto;
+    float: center;
+}
+
+.container-servicos li {
+    margin-bottom: 20px;
+    margin-left: 50px;
+    color: white;
 }
 
 /* -------------------------------------------------- */
